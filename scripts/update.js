@@ -1,6 +1,11 @@
-// Fetch contributors list from contributors.json and display on the page
+// Fetch contributors list and display on the page
 fetch("https://raw.githubusercontent.com/Namitanaik07/contributors-wall-of-batch1-juniors-cse/main/contributors.json")
-  .then(response => response.json())
+  .then(response => {
+    if (!response.ok) {
+      throw new Error("Failed to fetch contributors.json");
+    }
+    return response.json();
+  })
   .then(data => {
     const container = document.getElementById("contributors");
     data.forEach(person => {
