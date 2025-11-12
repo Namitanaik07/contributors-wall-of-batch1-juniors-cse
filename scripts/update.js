@@ -1,5 +1,5 @@
 // Fetch contributors list from contributors.json and display on the page
-fetch("./contributors.json")
+fetch("https://raw.githubusercontent.com/Namitanaik07/contributors-wall-of-batch1-juniors-cse/main/contributors.json")
   .then(response => response.json())
   .then(data => {
     const container = document.getElementById("contributors");
