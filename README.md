@@ -1,6 +1,6 @@
 # contributors Wall
 
-Welcome to **Contributors Wall** — a beginner-friendly open-source project by MITE CSE Seniors to help juniors learn GitHub collaboration and contribution. 🚀  
+Welcome to **Contributors Wall** — a beginner-friendly open-source project by MITE CSE Seniors to help juniors learn GitHub collaboration and contribution. 
 
 Each student will add their **name, GitHub username, and a short message** — and see it appear on the Contributors Wall!
 
