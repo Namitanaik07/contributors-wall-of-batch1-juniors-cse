@@ -1,10 +1,3 @@
-Perfect start, Namita 🌟 — your README already sets the tone beautifully for a **beginner-friendly open-source repo**!
-Let’s enhance it into a **complete, professional, and inspiring README** — ideal for juniors, easy to follow during your session, and attractive on GitHub 💫
-
-Here’s the improved, full version 👇
-
----
-
 # 🎓 **Contributors Wall – MITE CSE Juniors**
 
 Welcome to **Contributors Wall**, a beginner-friendly open-source project created by the **CSE Seniors of MITE** to help **2nd-year juniors** learn Git, GitHub, and open-source collaboration! 💻✨
