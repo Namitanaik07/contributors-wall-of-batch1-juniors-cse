@@ -138,7 +138,7 @@ contributors-wall-of-batch1-juniors-cse/
 
 ## ❤️ **Maintainers**
 
-👩‍💻 **Namita Naik** – Project Lead & Mentor
+👩‍💻 **Namita Naik** 
 📍 *CSE Department, MITE*
 🌸 [GitHub: Namitanaik07](https://github.com/Namitanaik07)
 
