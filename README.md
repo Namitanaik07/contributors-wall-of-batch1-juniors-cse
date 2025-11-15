@@ -156,11 +156,3 @@ Check out all the amazing contributors here 👇
 This project is licensed under the **MIT License** — you’re free to fork, remix, and learn!
 
 ---
-
-###  **For the Session (Optional Section)**
-
-If you’re attending the Open Source session:
-
-> “Make your first contribution live during the session, get your name added, and learn the real open-source workflow step-by-step!” 
-
----
